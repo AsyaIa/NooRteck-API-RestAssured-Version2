@@ -10,7 +10,7 @@
     "salary" : 10000,
     "comissionPct" : 0.1,
     "managerId" : 123,
-    "departmentId" : 80
+    "departmentId" : 30
   }, {
     "employeeId" : 246,
     "firstName" : "Tom",
