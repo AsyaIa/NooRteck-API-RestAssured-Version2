@@ -11,7 +11,7 @@
     "comissionPct" : 0.1,
     "managerId" : 123,
     "departmentId" : 30
-  }, {
+}, {
     "employeeId" : 246,
     "firstName" : "Tom",
     "lastName" : "Jerry",
@@ -22,8 +22,8 @@
     "salary" : 10000,
     "comissionPct" : 0.1,
     "managerId" : 123,
-    "departmentId" : 80
-  } ],
+    "departmentId" : 30
+ } ],
   "sit" : [ {
     "firstName" : "sit frameworkdata",
     "lastName" : "api",
@@ -34,6 +34,6 @@
     "salary" : 3000,
     "comissionPct" : 0.1,
     "managerId" : 140,
-    "departmentId" : 20
-  } ]
+    "departmentId" : 30
+ } ]
 }
